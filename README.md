@@ -1,16 +1,19 @@
-# to_do_app
+# Flutter To-Do App 📝
 
-A basic todo app to understand text controller and ListView.builder concepts
+A simple and clean To-Do list application built with Flutter.
+
+## Features
+- ✅ Add new tasks
+- ✅ Delete tasks
+- ✅ Simple UI 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/Jasyne-hub/flutter-todo-app.git
+cd flutter-todo-app
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
